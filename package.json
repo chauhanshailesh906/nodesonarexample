@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sonar": "node src/sonar-project.js",
-    "test": "jest --coverage"
+    "test": "jest Rosa.test.js --coverage"
   },
   "jest": {
     "testEnvironment": "node",
