@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="C:\Users\OPTLPTP476\OneDrive\Desktop\NodeSonarExample\src\test\Rosa.test.js">
+        <testCase name="Get Endpoints Get" duration="4"/>
+    </file>
+</testExecutions>
